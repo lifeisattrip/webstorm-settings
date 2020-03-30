@@ -6,6 +6,10 @@
           <option name="url" value="http://47.104.214.231:8080" />
           <option name="userName" value="zyj" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gogs.xw" />
+          <option name="userName" value="administrator" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
